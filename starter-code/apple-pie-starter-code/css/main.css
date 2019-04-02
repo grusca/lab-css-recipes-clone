@@ -9,12 +9,14 @@ h1 {
 }
 
 #intro {
-background-image: url("images/apple-pie.jpg");
+background-image: url("./../images/apple-pie.jpg");
 background-size:cover;
 height: 500px;
 width: 100%;
 text-align: center;
 vertical-align: middle;
+padding-top: 250px;
+color: white;
 }
 
 .content {
